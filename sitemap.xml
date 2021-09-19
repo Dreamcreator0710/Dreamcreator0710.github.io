@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/09/11/article/</loc>
+    <loc>https://dreamcreator0710.github.io/2021/09/11/article/</loc>
     
     <lastmod>2021-09-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/09/11/hello-world/</loc>
+    <loc>https://dreamcreator0710.github.io/2021/09/11/hello-world/</loc>
     
     <lastmod>2021-09-11</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://dreamcreator0710.github.io/</loc>
     <lastmod>2021-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
